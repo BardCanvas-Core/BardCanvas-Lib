@@ -1,6 +1,10 @@
 
 # BardCanvas Libraries Changelog 
 
+## [1.1.1] - 2017-06-08
+
+- Updated TinyMCE to version 4.6.3.
+
 ## [1.1.0] - 2017-05-05
 
 - Added Font Awesome 4.7.0.
