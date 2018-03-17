@@ -1,6 +1,10 @@
 
 # BardCanvas Libraries Changelog 
 
+## [1.1.2] - 2018-03-16
+
+- Deprecated (not removed) Google Recaptcha PHP lib.
+
 ## [1.1.1] - 2017-06-08
 
 - Updated TinyMCE to version 4.6.3.
@@ -47,6 +51,5 @@
   - PHPlot 6.1.0
   - PHPMailer 5.2.9
   - prettyPhot 3.1.6
-  - Recaptcha PHP lib 1.11
   - Slippry 1.3.1
   - TinyMCE 4.4
