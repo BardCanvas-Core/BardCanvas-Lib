@@ -1,6 +1,10 @@
 
 # BardCanvas Libraries Changelog 
 
+## [1.1.3] - 2020-04-23
+
+- Added sounds.
+
 ## [1.1.2] - 2018-03-16
 
 - Deprecated (not removed) Google Recaptcha PHP lib.
