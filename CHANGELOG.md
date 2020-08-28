@@ -1,6 +1,10 @@
 
 # BardCanvas Libraries Changelog 
 
+## [1.1.4] - 2020-08-27
+
+- Removed forced caching from ion sound.
+
 ## [1.1.3] - 2020-04-23
 
 - Added sounds.
