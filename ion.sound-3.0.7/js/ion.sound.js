@@ -254,7 +254,7 @@
         },
 
         createUrl: function () {
-            var no_cache = new Date().valueOf();
+            var no_cache = '';
             this.url = this.options.path + encodeURIComponent(this.options.name) + "." + this.options.supported[this.ext] + "?" + no_cache;
         },
 
@@ -912,7 +912,7 @@
         },
 
         createUrl: function () {
-            var rand = new Date().valueOf();
+            var rand = '';
             this.url = this.path + encodeURIComponent(this.name) + "." + settings.supported[0] + "?" + rand;
         },
 
