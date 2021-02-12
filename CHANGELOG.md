@@ -1,6 +1,11 @@
 
 # BardCanvas Libraries Changelog 
 
+## [1.2.0] - 2021-02-11
+
+- Added PHP-QRcode 1.1.4 from https://sourceforge.net/projects/phpqrcode/
+- Added Twilio interface v5.16.5.
+
 ## [1.1.4] - 2020-08-27
 
 - Removed forced caching from ion sound.
