@@ -1,6 +1,10 @@
 
 # BardCanvas Libraries Changelog 
 
+## [1.2.5] - 2024-03-23
+
+- Added FontAwesome Free v6.5.1.
+
 ## [1.2.0] - 2021-02-11
 
 - Added PHP-QRcode 1.1.4 from https://sourceforge.net/projects/phpqrcode/
