@@ -1,6 +1,10 @@
 
 # BardCanvas Libraries Changelog 
 
+## [1.2.6] - 2025-01-23
+
+- Added GeoIP2 libraries.
+
 ## [1.2.5] - 2024-03-23
 
 - Added FontAwesome Free v6.5.1.
